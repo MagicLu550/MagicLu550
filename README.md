@@ -4,7 +4,7 @@ I am a senior high school student who loves programming.Learning rusts and funct
 
 I come from Shandong of China.I am glad to make friend for everyone.However,if you are against China or support Taiwan independence.We will be enemies.So you should be friendly to Chinese.Peace is my under line.
 
-If you are Chinese,you can connect me by qq.My qq is 843983728.If you are not,you can give me advice through issues.
+If you are Chinese,you can connect me by qq.My qq is 843983728.If not,you can give me advice through issues.
 
 Now studying at school and working hard for Gaokao.So I have few time to do things about computer.So thanks for understanding.
 
