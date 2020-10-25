@@ -18,8 +18,7 @@ Finally,I hope that we can make a good conversation and you will have a good tim
 
 ```groovy
 {
-  name MagicLu
-  
+  name "MagicLu";
  	hobbies [
     "programming",
     "basketball",
