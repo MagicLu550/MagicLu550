@@ -20,7 +20,7 @@ Finally,I hope that we can make a good conversation and you will have a good tim
 {
   name "MagicLu";
  	
-  hobbies [
+  hobbies ([
     "programming",
     "basketball",
     "ping-pong",
@@ -30,7 +30,7 @@ Finally,I hope that we can make a good conversation and you will have a good tim
     "music",
     "philosophy",
     "singing"
-  ]
+  ])
   langauges ["java","scala","rust","c++","groovy"]
   bestFriends ["Risong Wong","Hongyang Li","MiGan","Shi","SO ON"]
   hopingUniversity ["Shanghai Jiao Tong University"]
