@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### Summary
+##### -- Summary
 I am a senior high school student who loves programming.Learning rusts and functions.And I enter into the programming world by java at first.
 
 I come from Shandong of China.I am glad to make friend for everyone.However,if you are against China or support Taiwan independence.We will be enemies.So you should be friendly to Chinese.Peace is my under line.
