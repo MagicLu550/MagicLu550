@@ -12,7 +12,7 @@ I come from **Shandong of China**.I am glad to make friend for everyone.**Howeve
 
 If you are Chinese,you can connect me by qq.My qq is 843983728.If not,you can give me advice through issues.
 
-Now studying at school and working hard for Gaokao.So I have few time to do things about computer.So thanks for understanding.
+Now studying at school and working hard for NCEE.So I have few time to do things about computer.So thanks for understanding.
 
 Finally,I hope that we can make a good conversation and you will have a good time when we work together.
 
@@ -36,7 +36,7 @@ Finally,I hope that we can make a good conversation and you will have a good tim
     "singing"
   ]
   langauges ["java","scala","rust","c++","groovy"]
-  bestFriends ["Risong Wong","Hongyang Li","MiGan","Shi","SO ON"]
+  bestFriends ["Risong Wong","Hongyang Li","Guorui Pang","Wenyu Liu","Haoyu Liu,"Qi Zhang","My Parents","MiGan","Shi","SO ON"]
   hopingUniversity ["Shanghai Jiao Tong University"]
   nature "outgoing and friendly"
   //And I love making friends whatever you are though you respect to me too
