@@ -41,13 +41,15 @@ Finally,I hope that we can make a good conversation and you will have a good tim
   // I do not use tiwwer now...... X(
   github "MagicLu550"
   // I have use this name since I was a pupil, HAHA
-  if(you.want(contact(me)) 
-  use{
+  if(you.want(contact(me)) {
+    use{
     qq 843983728
     weixin "lu843983728"
-    bilibili MagicLu550
-    tiwwer MagicLu5
+    bilibili "MagicLu550"
+    tiwwer "MagicLu5"
+    }.doNow()
   }
+  
 }
 ```
 
