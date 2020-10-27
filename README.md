@@ -50,7 +50,7 @@ Finally,I hope that we can make a good conversation and you will have a good tim
 ```
 These are my friends and partners
 ```
-<table style=".part{height: 100px,
+<table style=".part tr td img{height: 100px,
     weight: 100px}"><tr>
 <td><img src="https://avatars0.githubusercontent.com/u/22996240?s=96&v=4" border=0 width=100px height=100px><div>Junhe FaFa</div></td>
 <td><img src="https://avatars2.githubusercontent.com/u/36949944?s=96&v=4" border=0><div>GunVeda</div></td>
