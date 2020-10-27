@@ -4,6 +4,7 @@
 <div align='center'><h3>Summary</h4> </div>
 
 <div align="center"><img src="https://s1.ax1x.com/2020/10/27/BMR5qg.png"></div>
+
 I am a *senior high school student* who loves programming.Learning rusts and functions.And I enter into the programming world by java at first.
 
 I come from **Shandong of China**.I am glad to make friend for everyone.**However,if you are against China or support Taiwan independence.We will be enemies.So you should be friendly to Chinese.Peace is my under line.**
