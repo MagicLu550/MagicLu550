@@ -15,6 +15,8 @@ Now studying at school and working hard for Gaokao.So I have few time to do thin
 
 Finally,I hope that we can make a good conversation and you will have a good time when we work together.
 
+<div><img src="https://s1.ax1x.com/2020/10/27/BMfz59.png"></div>
+
 <div align='center'><h3>About me</h4> </div>
 
 ```groovy
