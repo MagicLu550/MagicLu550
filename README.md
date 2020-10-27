@@ -36,7 +36,7 @@ Finally,I hope that we can make a good conversation and you will have a good tim
     "singing"
   ]
   langauges ["java","scala","rust","c++","groovy"]
-  bestFriends ["Risong Wong","Hongyang Li","Guorui Pang","Wenyu Liu","Haoyu Liu,"Qi Zhang","My Parents","MiGan","Shi","SO ON"]
+  bestFriends ["Risong Wong","Hongyang Li","Guorui Pang","Wenyu Liu","Haoyu Liu,"Qi Zhang","KevinJ","My Parents","MiGan","Shi","SO ON"]
   hopingUniversity ["Shanghai Jiao Tong University"]
   nature "outgoing and friendly"
   //And I love making friends whatever you are though you respect to me too
