@@ -23,8 +23,6 @@ Finally,I hope that we can make a good conversation and you will have a good tim
 ```groovy
 {
   name "MagicLu"
-  age 18
-  hair true
   
  	hobbies [
     "programming",
@@ -37,6 +35,8 @@ Finally,I hope that we can make a good conversation and you will have a good tim
     "philosophy",
     "singing"
   ]
+  age 18
+  hair true
   langauges ["java","scala","rust","c++","groovy"]
   bestFriends ["Risong Wong","Hongyang Li","Guorui Pang","Wenyu Liu","Haoyu Liu,"Qi Zhang","KevinJ","My Parents","MiGan","Shi","SO ON"]
   hopingUniversity ["Shanghai Jiao Tong University"]
