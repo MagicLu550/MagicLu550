@@ -37,11 +37,17 @@ Finally,I hope that we can make a good conversation and you will have a good tim
   hopingUniversity ["Shanghai Jiao Tong University"]
   nature "outgoing and friendly"
   //And I love making friends whatever you are though you respect to me too
-  qq 843983728
-  weixin "lu843983728"
+  
   // I do not use tiwwer now...... X(
   github "MagicLu550"
   // I have use this name since I was a pupil, HAHA
+  if(you.want(contact(me)) 
+  use{
+    qq 843983728
+    weixin "lu843983728"
+    bilibili MagicLu550
+    tiwwer MagicLu5
+  }
 }
 ```
 
