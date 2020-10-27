@@ -3,7 +3,7 @@
 
 <div align='center'><h3>Summary</h4> </div>
 
-<div align="center"><img src="https://s1.ax1x.com/2020/10/27/BMR5qg.png"></div>
+<div align="center"><img src="start.png"></div>
 
 I am a *senior high school student* who loves programming.Learning rusts and functions.And I enter into the programming world by java at first.
 
@@ -15,7 +15,7 @@ Now studying at school and working hard for Gaokao.So I have few time to do thin
 
 Finally,I hope that we can make a good conversation and you will have a good time when we work together.
 
-<div><img src="https://s1.ax1x.com/2020/10/27/BMfz59.png"></div>
+<div><img src="bilibili.png"></div>
 
 <div align='center'><h3>About me</h4> </div>
 
