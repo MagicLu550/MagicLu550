@@ -3,7 +3,8 @@
 
 <div align='center'><h3>Summary</h4> </div>
 
-<div align="center"><img src="./start.png"></div>
+
+[image](start.png)
 
 I am a *senior high school student* who loves programming.Learning rusts and functions.And I enter into the programming world by java at first.
 
