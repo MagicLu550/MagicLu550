@@ -37,7 +37,7 @@ Finally,I hope that we can make a good conversation and you will have a good tim
   age 18
   hair true
   languages ["java","scala","rust","c++","groovy"]
-  bestFriends ["Risong Wong","Hongyang Li","Guorui Pang","Wenyu Liu","Haoyu Liu","Qi Zhang","KevinJ","My Parents","MiGan","Shi","SO ON"]
+  bestFriends ["Risong Wong","Hongyang Li","Qingsen Meng","Guorui Pang","Wenyu Liu","Haoyu Liu","Qi Zhang","KevinJ","My Parents","MiGan","Shi","SO ON"]
   
   hopingUniversity ["Shanghai Jiao Tong University"]
   nature "outgoing and friendly"
